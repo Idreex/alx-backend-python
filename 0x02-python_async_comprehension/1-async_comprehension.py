@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 1's module.
+'''The coroutine will collect 10 random numbers using an async comprehensing over async_generator, then return the 10 random numbers.
 '''
 from typing import List
 from importlib import import_module as using
